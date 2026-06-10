@@ -40,4 +40,5 @@ To simulate a Full wave Bridge rectifier circuit and compare the outputs with an
 
 
 ## RESULT:
-![WhatsApp Image 2025-11-29 at 11 08 34_5aca9152](https://github.com/user-attachments/assets/df40f5fa-64d8-4442-9c46-1fb57709abab)
+<img width="1599" height="899" alt="WhatsApp Image 2026-06-10 at 10 18 00 PM" src="https://github.com/user-attachments/assets/649f7406-031f-4d1c-bebe-898adb2de032" />
+
